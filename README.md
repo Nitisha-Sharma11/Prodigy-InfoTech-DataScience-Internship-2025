@@ -3,21 +3,14 @@
 This repository contains all the tasks completed as part of my Data Science Internship at Prodigy InfoTech during the month of June 2025. The tasks cover different areas of data science including exploratory data analysis, data visualization, data cleaning, and machine learning.
 
 ## Internship Duration:
-Start Date: 1 June 2025  
-End Date: 30 June 2025
+**Start Date:** 1 June 2025  
+**End Date:** 30 June 2025
 
 ## Intern Details:
-Name: Nitisha Sharma  
-Email: nitishasharma137@gmail.com  
-GitHub: [Nitisha-Sharma11](https://github.com/Nitisha-Sharma11)  
-LinkedIn: [Nitisha Sharma](https://www.linkedin.com/in/nitisha-sharma-0a499b369)
-## 📬 Contact:
-
+**Name:** Nitisha Sharma  
 **Email:** nitishasharma137@gmail.com  
 **GitHub:** [Nitisha-Sharma11](https://github.com/Nitisha-Sharma11)  
 **LinkedIn:** [Nitisha Sharma](https://www.linkedin.com/in/nitisha-sharma-0a499b369)
-
-
 
 ## Tasks Overview:
 
