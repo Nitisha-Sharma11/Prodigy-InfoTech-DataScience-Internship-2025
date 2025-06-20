@@ -1,6 +1,6 @@
 # Prodigy InfoTech Data Science Internship – June 2025
 
-This repository contains all the tasks completed as part of my Data Science Internship at Prodigy InfoTech during the month of June 2025. The tasks cover different areas of data science including exploratory data analysis, data visualization, data cleaning, and machine learning.
+This repository contains all the tasks completed as part of my Data Science Internship at Prodigy InfoTech during the month of June 2025. The tasks cover different areas of data science including exploratory data analysis, data visualization, machine learning, natural language processing, and data cleaning & preprocessing.
 
 ## Internship Duration:
 **Start Date:** 1 June 2025  
@@ -32,5 +32,23 @@ This repository contains all the tasks completed as part of my Data Science Inte
 
 ## Note:
 Each task is stored in its own folder (`Task-1` to `Task-5`) along with the required datasets and Jupyter notebooks. For detailed explanation and code, refer to the individual task folders.
+
+## Repository Structure
+
+Each task is stored in its own folder (Task-1 to Task-5) and includes:
+
+Jupyter Notebook (.ipynb)
+
+Dataset (Excel file or Kaggle link)
+
+Task instruction image (what to do)
+
+Visualizations and charts included
+
+Task-specific README.m
+
+## Acknowledgment
+
+Thank you **Prodigy InfoTech** for this virtual internship opportunity. It helped me apply my data science knowledge in real-world scenarios and build strong analytical thinking.
 
 Thank you for reviewing my internship work.
