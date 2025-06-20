@@ -4,13 +4,13 @@ This repository contains all the tasks completed as part of my Data Science Inte
 
 ---
 
-## 🗓️ Internship Duration
+## Internship Duration
 - **Start Date:** 1 June 2025  
 - **End Date:** 30 June 2025
 
 ---
 
-## 👩‍💻 Intern Details
+## Intern Details
 - **Name:** Nitisha Sharma  
 - **Email:** nitishasharma137@gmail.com  
 - **GitHub:** [Nitisha-Sharma11](https://github.com/Nitisha-Sharma11)  
@@ -18,7 +18,7 @@ This repository contains all the tasks completed as part of my Data Science Inte
 
 ---
 
-## 📋 Tasks Overview
+## Tasks Overview
 
 | Task No. | Title                                         | Description                                                                                      |
 |----------|-----------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ This repository contains all the tasks completed as part of my Data Science Inte
 
 ---
 
-## 🛠️ Tools and Technologies Used
+## Tools and Technologies Used
 - Python  
 - Jupyter Notebook  
 - Pandas, NumPy  
@@ -40,7 +40,7 @@ This repository contains all the tasks completed as part of my Data Science Inte
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 Each task is stored in its own folder (`Task-1` to `Task-5`) and includes:
 
@@ -52,7 +52,7 @@ Each task is stored in its own folder (`Task-1` to `Task-5`) and includes:
 
 ---
 
-## 🙏 Acknowledgment
+## Acknowledgment
 
 Thank you **Prodigy InfoTech** for this virtual internship opportunity. It helped me apply my data science knowledge in real-world scenarios and build strong analytical thinking.  
 Also, **thank you to everyone who visited and viewed my project. Your support means a lot!**
