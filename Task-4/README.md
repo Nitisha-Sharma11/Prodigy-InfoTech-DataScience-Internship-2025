@@ -5,12 +5,12 @@ In this task, I focused on cleaning and preprocessing a student dataset to prepa
 
 ---
 
-## 📁 Dataset:
+## Dataset:
 The dataset contains details of students including name, age, gender, scores, education, and interest area.
 
 ---
 
-## 🔧 Tools and Libraries Used:
+## Tools and Libraries Used:
 - Python
 - Jupyter Notebook
 - Pandas
@@ -18,7 +18,7 @@ The dataset contains details of students including name, age, gender, scores, ed
 
 ---
 
-## 🔍 Key Cleaning Steps Performed:
+## Key Cleaning Steps Performed:
 
 1. **Initial Inspection**
    - Viewed dataset shape, column names, and data types
@@ -38,7 +38,5 @@ The dataset contains details of students including name, age, gender, scores, ed
 
 ---
 
-## 📌 Conclusion:
+## Conclusion:
 The cleaned dataset is now ready for further exploration and modeling. Proper preprocessing ensures accurate analysis and better results in downstream tasks.
-
-
