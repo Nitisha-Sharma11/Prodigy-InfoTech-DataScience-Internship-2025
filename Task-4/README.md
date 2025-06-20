@@ -1,15 +1,44 @@
-# Task 4: Data Cleaning & Preprocessing
+# Task 4: Data Cleaning and Preprocessing – Student Dataset
 
-This folder contains the Jupyter notebook for **Task 4** of my Data Science Internship at **Prodigy InfoTech (June 2025)**.
-
-## 📌 Description:
-This task focuses on cleaning raw data and preparing it for further analysis or modeling. It includes handling missing values, encoding categorical features, removing duplicates, and scaling or normalizing data.
-
-## 📁 Files Included:
-- `Task4_Preprocessing.ipynb` – Jupyter notebook with all preprocessing steps.
-- `cleaned_dataset.csv` – (Optional) Output dataset after cleaning.
+This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).  
+In this task, I focused on cleaning and preprocessing a student dataset to prepare it for effective data analysis and visualization.
 
 ---
 
-✅ **Internship Duration**: 1 June 2025 – 30 June 2025  
-👩‍💻 **Intern**: Nitisha Sharma
+## 📁 Dataset:
+The dataset contains details of students including name, age, gender, scores, education, and interest area.
+
+---
+
+## 🔧 Tools and Libraries Used:
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+
+---
+
+## 🔍 Key Cleaning Steps Performed:
+
+1. **Initial Inspection**
+   - Viewed dataset shape, column names, and data types
+
+2. **Missing Value Treatment**
+   - Checked and handled null values using techniques like `fillna()` and `dropna()`
+
+3. **Removing Duplicates**
+   - Identified and removed duplicate records using `drop_duplicates()`
+
+4. **Data Type Correction**
+   - Converted columns to appropriate data types where necessary
+
+5. **Renaming & Dropping Columns**
+   - Cleaned column names for consistency
+   - Removed irrelevant or empty columns
+
+---
+
+## 📌 Conclusion:
+The cleaned dataset is now ready for further exploration and modeling. Proper preprocessing ensures accurate analysis and better results in downstream tasks.
+
+
