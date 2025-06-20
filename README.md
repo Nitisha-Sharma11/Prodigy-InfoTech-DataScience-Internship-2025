@@ -30,9 +30,6 @@ This repository contains all the tasks completed as part of my Data Science Inte
 - Scikit-learn  
 - Kaggle Datasets  
 
-## Note:
-Each task is stored in its own folder (`Task-1` to `Task-5`) along with the required datasets and Jupyter notebooks. For detailed explanation and code, refer to the individual task folders.
-
 ## Repository Structure
 
 Each task is stored in its own folder (Task-1 to Task-5) and includes:
@@ -45,5 +42,6 @@ Each task is stored in its own folder (Task-1 to Task-5) and includes:
 
 ## Acknowledgment
 
-Thank you Prodigy InfoTech for this virtual internship opportunity. It helped me apply my data science knowledge in real-world scenarios and build strong analytical thinking.  
+Thank you **Prodigy InfoTech** for this virtual internship opportunity. It helped me apply my data science knowledge in real-world scenarios and build strong analytical thinking.
+
 Also, thank you to everyone who visited and viewed my project. Your support means a lot!
