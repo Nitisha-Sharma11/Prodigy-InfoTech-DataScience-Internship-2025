@@ -9,8 +9,15 @@ End Date: 30 June 2025
 ## Intern Details:
 Name: Nitisha Sharma  
 Email: nitishasharma137@gmail.com  
-GitHub: https://github.com/Nitisha-Sharma11  
-LinkedIn: [View Profile](https://www.linkedin.com/in/your-linkedin-id)
+GitHub: [Nitisha-Sharma11](https://github.com/Nitisha-Sharma11)  
+LinkedIn: [Nitisha Sharma](https://www.linkedin.com/in/nitisha-sharma-0a499b369)
+## 📬 Contact:
+
+**Email:** nitishasharma137@gmail.com  
+**GitHub:** [Nitisha-Sharma11](https://github.com/Nitisha-Sharma11)  
+**LinkedIn:** [Nitisha Sharma](https://www.linkedin.com/in/nitisha-sharma-0a499b369)
+
+
 
 ## Tasks Overview:
 
