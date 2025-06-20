@@ -1,15 +1,44 @@
-# Task 3: Exploratory Data Analysis (EDA)
+# Task 3: Exploratory Data Analysis (EDA) – Heart Disease Dataset
 
-This folder contains the Jupyter notebook for **Task 3** of my Data Science Internship at **Prodigy InfoTech (June 2025)**.
-
-## 📌 Description:
-This task involves performing exploratory data analysis (EDA) on a sample dataset. Key steps include identifying missing values, statistical summaries, value counts, and visualizing distributions and relationships using graphs.
-
-## 📁 Files Included:
-- `Task3_EDA.ipynb` – Jupyter notebook with complete EDA process.
-- `eda_charts/` – Folder (if added) containing EDA plots and graphs.
+This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).  
+In this task, I performed a detailed Exploratory Data Analysis (EDA) on a heart disease dataset to uncover meaningful insights and trends in the data.
 
 ---
 
-✅ **Internship Duration**: 1 June 2025 – 30 June 2025  
-👩‍💻 **Intern**: Nitisha Sharma
+## Dataset:
+The dataset contains medical data of patients including attributes such as age, cholesterol, blood pressure, fasting blood sugar, and chest pain type, among others.
+
+---
+
+## Tools and Libraries Used:
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+- pandas_profiling / ydata-profiling
+
+---
+
+## Key Steps Performed:
+
+1. **Initial Data Inspection**
+   - Checked shape, data types, and previewed records
+
+2. **Missing Value Analysis**
+   - Identified and handled null/missing values (if any)
+
+3. **Statistical Summary**
+   - Descriptive statistics of all features
+
+4. **Univariate & Bivariate Visualizations**
+   - Histograms and box plots for distribution
+   - Correlation heatmap for multivariate analysis
+
+5. **Insights**
+   - Found key features that strongly affect heart disease (like chest pain, cholesterol, age)
+
+---
+
+## Conclusion:
+This EDA helped uncover relationships and distributions among features that are linked with the likelihood of heart disease. It provided a strong foundation for future predictive modeling and feature selection.
