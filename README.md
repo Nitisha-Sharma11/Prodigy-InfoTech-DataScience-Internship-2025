@@ -8,7 +8,7 @@ This repository contains all Python tasks completed as part of the **Data Scienc
 - 🔹 **Task 2**: Data Visualization using Matplotlib & Seaborn
 - 🔹 **Task 3**: Exploratory Data Analysis
 - 🔹 **Task 4**: Data Cleaning & Preprocessing
-- 🔹 **Task 5**: Mini Project (e.g., Heart Disease Prediction)
+- 🔹 **Task 5**: Mini Project - U.S. Accidents Analysis
 
 Each task is organized in its own folder (`Task-1`, `Task-2`, etc.) and includes:
 - 📄 A Jupyter notebook (`.ipynb`)
