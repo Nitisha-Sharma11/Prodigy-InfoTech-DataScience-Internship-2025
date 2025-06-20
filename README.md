@@ -37,15 +37,11 @@ Each task is stored in its own folder (`Task-1` to `Task-5`) along with the requ
 
 Each task is stored in its own folder (Task-1 to Task-5) and includes:
 
-Jupyter Notebook (.ipynb)
-
-Dataset (Excel file or Kaggle link)
-
-Task instruction image (what to do)
-
-Visualizations and charts included
-
-Task-specific README.m
+- Jupyter Notebook (.ipynb)
+- Dataset (Excel file or Kaggle link)
+- Task instruction image (what to do)
+- Visualizations and charts included
+- Task-specific README.m
 
 ## Acknowledgment
 
