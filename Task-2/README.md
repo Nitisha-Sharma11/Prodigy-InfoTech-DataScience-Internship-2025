@@ -1,15 +1,34 @@
-# Task 2: Data Visualization using Matplotlib & Seaborn
+# Task 2: Data Visualization using Matplotlib and Seaborn
 
-This folder contains the Jupyter notebook for **Task 2** of my Data Science Internship at **Prodigy InfoTech (June 2025)**.
-
-## 📌 Description:
-In this task, various data visualization techniques were used to represent insights using Matplotlib and Seaborn. This includes bar charts, line graphs, pie charts, histograms, and scatter plots.
-
-## 📁 Files Included:
-- `Task2_Visualization.ipynb` – Python notebook with all visualization codes.
-- `charts/` – Folder (if added) containing output images of plots.
+This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).  
+In this task, I worked on visualizing various aspects of a student dataset using Matplotlib and Seaborn libraries.
 
 ---
 
-✅ **Internship Duration**: 1 June 2025 – 30 June 2025  
-👩‍💻 **Intern**: Nitisha Sharma
+## Dataset:
+The dataset contains student demographic and academic information such as gender, age, education level, scores, and course interest.
+
+---
+
+## Tools and Libraries Used:
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+## Key Visualizations Created:
+
+1. **Bar Chart** – Showing the number of students by gender  
+2. **Pie Chart** – Distribution of interest in data science  
+3. **Line Plot** – Age vs. Scores trend  
+4. **Count Plot** – Education level of students  
+5. **Scatter Plot** – Relationship between age and scores  
+6. **Custom Color Themes** – For better presentation
+
+---
+
+## Conclusion:
+The visualizations provided valuable insights into student demographics, their interest in data science, and academic performance. These plots helped identify patterns and relationships among different variables.
