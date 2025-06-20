@@ -1,23 +1,36 @@
-# Prodigy InfoTech Data Science Internship (June 2025)
+# Prodigy InfoTech Data Science Internship – June 2025
 
-This repository contains all Python tasks completed as part of the **Data Science Internship** at **Prodigy InfoTech**, held during **June 2025**.
+This repository contains all the tasks completed as part of my Data Science Internship at Prodigy InfoTech during the month of June 2025. The tasks cover different areas of data science including exploratory data analysis, data visualization, data cleaning, and machine learning.
 
-## ✅ Completed Tasks:
+## Internship Duration:
+Start Date: 1 June 2025  
+End Date: 30 June 2025
 
-- 🔹 **Task 1**: Python Programming Basics
-- 🔹 **Task 2**: Data Visualization using Matplotlib & Seaborn
-- 🔹 **Task 3**: Exploratory Data Analysis
-- 🔹 **Task 4**: Data Cleaning & Preprocessing
-- 🔹 **Task 5**: Mini Project - U.S. Accidents Analysis
+## Intern Details:
+Name: Nitisha Sharma  
+Email: nitishasharma137@gmail.com  
+GitHub: https://github.com/Nitisha-Sharma11  
+LinkedIn: [View Profile](https://www.linkedin.com/in/your-linkedin-id)
 
-Each task is organized in its own folder (`Task-1`, `Task-2`, etc.) and includes:
-- 📄 A Jupyter notebook (`.ipynb`)
-- 📁 Dataset and/or images
-- 📘 A detailed `README.md` with task description
+## Tasks Overview:
 
----
+| Task No. | Title                                       | Description                                                                 |
+|----------|---------------------------------------------|-----------------------------------------------------------------------------|
+| Task 1   | Exploratory Data Analysis – Population       | Performed EDA on a world population dataset using bar charts and area plots. |
+| Task 2   | Data Visualization                           | Created various univariate and bivariate charts using student data.         |
+| Task 3   | EDA – U.S. Accidents                         | Analyzed a large traffic accident dataset from the US for insights.         |
+| Task 4   | Data Cleaning and Preprocessing              | Cleaned and preprocessed data, handled missing values, and encoded features.|
+| Task 5   | Mini Project – U.S. Accidents ML Model       | Built and evaluated a machine learning model to analyze accident severity.  |
 
-👩‍💻 **Intern**: Nitisha Sharma  
-📅 **Internship Duration**: 1 June 2025 – 30 June 2025  
-🎓 **Role**: Data Science Intern  
-🏢 **Organization**: Prodigy InfoTech
+## Tools and Technologies Used:
+- Python  
+- Jupyter Notebook  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- Kaggle Datasets  
+
+## Note:
+Each task is stored in its own folder (`Task-1` to `Task-5`) along with the required datasets and Jupyter notebooks. For detailed explanation and code, refer to the individual task folders.
+
+Thank you for reviewing my internship work.
