@@ -45,6 +45,5 @@ Each task is stored in its own folder (Task-1 to Task-5) and includes:
 
 ## Acknowledgment
 
-Thank you **Prodigy InfoTech** for this virtual internship opportunity. It helped me apply my data science knowledge in real-world scenarios and build strong analytical thinking.
-
-Thank you for reviewing my internship work.
+Thank you Prodigy InfoTech for this virtual internship opportunity. It helped me apply my data science knowledge in real-world scenarios and build strong analytical thinking.  
+Also, thank you to everyone who visited and viewed my project. Your support means a lot!
