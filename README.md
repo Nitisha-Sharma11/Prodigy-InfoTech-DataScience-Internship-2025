@@ -12,15 +12,15 @@ This repository contains all the tasks completed as part of my Data Science Inte
 **GitHub:** [Nitisha-Sharma11](https://github.com/Nitisha-Sharma11)  
 **LinkedIn:** [Nitisha Sharma](https://www.linkedin.com/in/nitisha-sharma-0a499b369)
 
-## Tasks Overview:
+## Tasks Overview
 
-| Task No. | Title                                       | Description                                                                 |
-|----------|---------------------------------------------|-----------------------------------------------------------------------------|
-| Task 1   | Exploratory Data Analysis – Population       | Performed EDA on a world population dataset using bar charts and area plots. |
-| Task 2   | Data Visualization                           | Created various univariate and bivariate charts using student data.         |
-| Task 3   | EDA – U.S. Accidents                         | Analyzed a large traffic accident dataset from the US for insights.         |
-| Task 4   | Data Cleaning and Preprocessing              | Cleaned and preprocessed data, handled missing values, and encoded features.|
-| Task 5   | Mini Project – U.S. Accidents ML Model       | Built and evaluated a machine learning model to analyze accident severity.  |
+| Task No. | Title                                      | Description                                                                 |
+|:--------:|:-------------------------------------------|:-----------------------------------------------------------------------------|
+| Task 1   | Exploratory Data Analysis – World Population | Performed EDA on world population data using bar charts and area plots to observe population trends. |
+| Task 2   | Data Visualization – Titanic Dataset       | Cleaned and visualized Titanic dataset to uncover survival patterns by age, gender, and class. |
+| Task 3   | Bank Marketing ML Model (Additional Task)  | Built and evaluated decision tree models to predict term deposit subscriptions based on client demographics. |
+| Task 4   | Twitter Sentiment Analysis (Training Task) | Analyzed Twitter dataset to identify sentiment patterns using text processing and visualizations. |
+| Task 5   | U.S. Accidents – March 2023                | Conducted EDA and built ML model on U.S. accident data to analyze severity and location-based trends. |
 
 ## Tools and Technologies Used:
 - Python  
