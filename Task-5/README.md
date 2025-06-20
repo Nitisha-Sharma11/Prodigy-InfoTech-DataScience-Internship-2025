@@ -14,7 +14,7 @@ The goal is to analyze traffic accident data to identify trends, hotspots, and p
 ## Dataset
 
 This project uses publicly available traffic accident data from Kaggle:  
-🔗 [US Accidents (Kaggle Dataset)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
+[US Accidents (Kaggle Dataset)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 
 The dataset includes attributes such as:
 - **ID, Severity** (levels 1–4), **Time** (start/end)
