@@ -6,20 +6,16 @@ In this task, I performed Exploratory Data Analysis (EDA) on the famous Titanic 
 ---
 # Dataset
 
-**File Name**: titanic.csv  
-**Source**: Titanic Dataset from [Kaggle](https://www.kaggle.com/competitions/titanic/data)
+- **File Name**: titanic.csv  
+- **Source**: Titanic Dataset from [Kaggle](https://www.kaggle.com/competitions/titanic/data)
+- **Attributes Include**:  
+  - `PassengerId` – Unique ID for each passenger  
+  - `Survived` – Target variable (0 = No, 1 = Yes)  
+  - `Pclass` – Passenger class (1st, 2nd, 3rd)  
+  - `Name` – Name of the passenger  
+  - `Sex` – Gender of the passenger  
+  - `Age` – Age in years  
 
-**Attributes Include**:  
-- `PassengerId` – Unique ID for each passenger  
-- `Survived` – Target variable (0 = No, 1 = Yes)  
-- `Pclass` – Passenger class (1st, 2nd, 3rd)  
-- `Name` – Name of the passenger  
-- `Sex` – Gender of the passenger  
-- `Age` – Age in years  
-- `SibSp`, `Parch` – Number of siblings/spouses and parents/children aboard  
-- `Ticket`, `Fare` – Ticket number and fare paid  
-- `Cabin` – Cabin number  
-- `Embarked` – Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 
 
