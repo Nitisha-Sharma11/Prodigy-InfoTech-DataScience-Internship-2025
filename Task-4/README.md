@@ -8,7 +8,7 @@ In this task, I performed Exploratory Data Analysis (EDA) and visualization on a
 # Dataset
 
 - **File Name:** `Task_4_twitter_training.csv`  
-- **Source:** [Kaggle - Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)  
+- **Source:** [Kaggle – Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)  
 - **Attributes Include:**
   - `ID` – Unique identifier  
   - `Topic` – The subject of the tweet (e.g., brand or keyword)  
