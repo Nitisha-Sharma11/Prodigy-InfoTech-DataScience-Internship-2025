@@ -31,14 +31,14 @@ In this task, I performed Exploratory Data Analysis (EDA) on a world population 
 
 # Key Steps Performed
 
-- **Data Import and Exploration**
+## Data Import and Exploration
   - Loaded the dataset and viewed shape, columns, and basic statistics.
   - Checked for duplicates and missing values.
 
-- **Data Cleaning**
+## Data Cleaning
   - Removed any unnecessary columns and confirmed dataset quality.
 
-- **Visualization & Analysis**
+## Visualization & Analysis
   - Bar chart showing top 10 most populous countries.
   - Area plots showing population growth trends (2001–2022).
   - Gender-wise population trends using line plots and color comparisons.
