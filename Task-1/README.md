@@ -64,6 +64,6 @@ The visualizations effectively summarized how demographic variables have changed
 # Dataset Source
 
 This dataset was sourced from Kaggle:  
-🔗 [World Population Dataset on Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
+🔗 [Kaggle - World Population Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
 
 ---
