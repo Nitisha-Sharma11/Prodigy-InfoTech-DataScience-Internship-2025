@@ -7,6 +7,19 @@ In this task, I performed Exploratory Data Analysis (EDA) on the Titanic dataset
 
 # Dataset
 
+**File Name**: titanic.csv  
+**Source**: [Kaggle - Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)  
+**Attributes Include**:
+- PassengerId – Unique ID for each passenger  
+- Survived – Target variable (0 = No, 1 = Yes)  
+- Pclass – Passenger class (1st, 2nd, 3rd)  
+- Name – Name of the passenger  
+- Sex – Gender of the passenger  
+- Age – Age in years  
+
+
+# Dataset
+
 - **File Name**: titanic.csv  
 - **Source**: Titanic Dataset from [Kaggle](https://www.kaggle.com/competitions/titanic/data)  
 - **Attributes Include**:
