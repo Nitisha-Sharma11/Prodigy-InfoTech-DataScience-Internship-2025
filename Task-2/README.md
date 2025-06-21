@@ -1,4 +1,4 @@
-## Task 3: Exploratory Data Analysis – Titanic Dataset
+## Task 2: Exploratory Data Analysis – Titanic Dataset
 
 This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).  
 In this task, I performed Exploratory Data Analysis (EDA) on the famous Titanic dataset to uncover patterns related to passenger survival.
