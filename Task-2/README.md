@@ -4,17 +4,6 @@ This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).
 In this task, I performed Exploratory Data Analysis (EDA) on the Titanic dataset to uncover survival patterns based on passenger demographics and ticket details.
 
 ---
-# Dataset
-
-- **File Name:** `Task 1_worldpopulationdata.csv`  
-- **Source:** Contains country-wise population statistics from 2001 to 2022.  
-- **Attributes Include:**
-  - `SP.POP.TOTL` – Total Population  
-  - `SP.POP.TOTL.FE.IN` – Female Population  
-  - `SP.POP.TOTL.MA.IN` – Male Population  
-  - `SP.POP.TOTL.FE.ZS` – Female (% of total)  
-  - `SP.POP.TOTL.MA.ZS` – Male (% of total)
-
 
 # Dataset
 
