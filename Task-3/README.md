@@ -1,44 +1,62 @@
-# Task 3: Exploratory Data Analysis (EDA) – Heart Disease Dataset
+### Task 4: Twitter Sentiment Analysis (Training Task)
 
 This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).  
-In this task, I performed a detailed Exploratory Data Analysis (EDA) on a heart disease dataset to uncover meaningful insights and trends in the data.
+In this task, I performed sentiment analysis on Twitter data to understand public opinion using text preprocessing and visualizations.
 
 ---
 
-## Dataset:
-The dataset contains medical data of patients including attributes such as age, cholesterol, blood pressure, fasting blood sugar, and chest pain type, among others.
+### Dataset
+
+- **File Name:** `Task_4_twitter_training.xlsx`
+- **Source:** Contains tweets with corresponding sentiment labels.
+- **Attributes Include:**
+  - `id` – Unique tweet ID  
+  - `label` – Sentiment (0 = Negative, 1 = Positive)  
+  - `tweet` – Tweet text content  
 
 ---
 
-## Tools and Libraries Used:
-- Python
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- Seaborn
-- pandas_profiling / ydata-profiling
+### Tools and Libraries Used
+
+- Python  
+- Jupyter Notebook  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- re (regular expressions)  
+- WordCloud  
+- sklearn (for model evaluation in extended tasks)
 
 ---
 
-## Key Steps Performed:
+### Key Steps Performed
 
-1. **Initial Data Inspection**
-   - Checked shape, data types, and previewed records
+#### Data Preprocessing
+- Removed special characters, links, and punctuations  
+- Converted all text to lowercase  
+- Removed stopwords and performed tokenization  
 
-2. **Missing Value Analysis**
-   - Identified and handled null/missing values (if any)
-
-3. **Statistical Summary**
-   - Descriptive statistics of all features
-
-4. **Univariate & Bivariate Visualizations**
-   - Histograms and box plots for distribution
-   - Correlation heatmap for multivariate analysis
-
-5. **Insights**
-   - Found key features that strongly affect heart disease (like chest pain, cholesterol, age)
+#### Visualization
+- Word cloud for positive and negative tweets  
+- Bar plot showing sentiment distribution  
 
 ---
 
-## Conclusion:
-This EDA helped uncover relationships and distributions among features that are linked with the likelihood of heart disease. It provided a strong foundation for future predictive modeling and feature selection.
+### Insights
+
+- Positive tweets are more frequent than negative ones in the dataset  
+- Common words like “good”, “great”, and “love” appear in positive tweets  
+- Words like “bad”, “not”, and “worst” appear more in negative tweets  
+
+---
+
+### Conclusion
+
+This sentiment analysis task highlighted the importance of preprocessing in text data and demonstrated how visual tools can reveal public opinion trends. It serves as a foundational step for more advanced NLP tasks.
+
+---
+
+### Dataset Source
+
+[Kaggle - Twitter Sentiment Dataset](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
