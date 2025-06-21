@@ -4,11 +4,11 @@ This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).
 In this task, I built a machine learning model using a bank marketing dataset to predict whether a client will subscribe to a term deposit.
 
 ---
-
+ 
 # Dataset
 
 - **File Name:** `Task_3_bank-additional.xlsx`
-- **Source:** Bank Marketing dataset from a Portuguese banking institution.
+- **Source:** [UCI Repository – Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing) 
 - **Attributes Include:**
   - `age` – Age of the client  
   - `job`, `marital`, `education` – Client demographic information  
