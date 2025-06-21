@@ -1,17 +1,17 @@
-## Task 2: Exploratory Data Analysis – Titanic Dataset
+# Task 2: Exploratory Data Analysis – Titanic Dataset
 
 This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).  
 In this task, I performed Exploratory Data Analysis (EDA) on the famous Titanic dataset to uncover patterns related to passenger survival.
 
 ---
 
-### Dataset
+# Dataset
 
 The dataset used is the Titanic dataset from Kaggle, which includes information about passengers such as age, gender, class, fare, and survival status.
 
 ---
 
-### Tools and Libraries Used
+# Tools and Libraries Used
 
 - Python  
 - Jupyter Notebook  
@@ -21,24 +21,24 @@ The dataset used is the Titanic dataset from Kaggle, which includes information 
 
 ---
 
-### Key Steps Performed
+# Key Steps Performed
 
-#### Data Cleaning
+## Data Cleaning
 - Handled missing values in columns like Age, Cabin, and Embarked.
 - Converted data types and dropped irrelevant columns.
 
-#### Univariate Analysis
+## Univariate Analysis
 - Count plot of survival status.
 - Bar chart of passengers by class and gender.
 - Histogram of age distribution.
 
-#### Multivariate Analysis
+## Multivariate Analysis
 - Heatmap showing correlation between numerical variables.
 - Grouped visualizations to compare survival by class, gender, and embarkation point.
 
 ---
 
-### Insights
+# Insights
 
 - Female passengers had a much higher survival rate than males.
 - 1st class passengers were more likely to survive than 2nd or 3rd class.
@@ -47,12 +47,14 @@ The dataset used is the Titanic dataset from Kaggle, which includes information 
 
 ---
 
-### Conclusion
+# Conclusion
 
 This EDA revealed strong correlations between survival and features like gender, passenger class, and age. The Titanic dataset remains a great resource for practicing data analysis and understanding real-world patterns.
 
 ---
 
-### Dataset Source
+# Dataset Source
 
 🔗 [Kaggle - Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
+
+---
