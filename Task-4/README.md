@@ -67,3 +67,5 @@ It helped in identifying the most talked-about topics and the type of sentiment 
 🔗 [Kaggle – Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ---
+### 🔗 Dataset Source  
+[Kaggle – Twitter Sentiment Dataset](https://www.kaggle.com/datasets/cosmos98/twitter-sentiment-analysis)
