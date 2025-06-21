@@ -67,3 +67,5 @@ It demonstrates how EDA can highlight key factors from historical data and suppo
 🔗 [Kaggle – Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
 
 ---
+### 🔗 Dataset Source  
+[Kaggle – Twitter Sentiment Dataset](https://www.kaggle.com/datasets/cosmos98/twitter-sentiment-analysis)
