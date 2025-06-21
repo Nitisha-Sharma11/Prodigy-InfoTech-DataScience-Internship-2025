@@ -1,44 +1,67 @@
-# Task 1: Exploratory Data Analysis – World Population
+### Task 1: Exploratory Data Analysis – World Population
 
 This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).  
-In this task, I performed Exploratory Data Analysis (EDA) on a world population dataset using various visualization techniques.
+In this task, I performed Exploratory Data Analysis (EDA) on a world population dataset to analyze demographic trends using visualizations.
 
 ---
 
-## Dataset:
-The dataset used in this task is **world_population_data.csv**  
-It contains country-wise population data from the year 2001 to 2022.
+### Dataset
+
+- **File Name:** `Task 1_worldpopulationdata.csv`  
+- **Source:** Contains country-wise population statistics from 2001 to 2022.  
+- **Attributes Include:**
+  - `SP.POP.TOTL` – Total Population  
+  - `SP.POP.TOTL.FE.IN` – Female Population  
+  - `SP.POP.TOTL.MA.IN` – Male Population  
+  - `SP.POP.TOTL.FE.ZS` – Female (% of total)  
+  - `SP.POP.TOTL.MA.ZS` – Male (% of total)
 
 ---
 
-## Tools and Libraries Used:
-- Python
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- Seaborn
+### Tools and Libraries Used
+
+- Python  
+- Jupyter Notebook  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- NumPy
 
 ---
 
-## Key Steps Performed:
+### Key Steps Performed
 
-1. **Data Cleaning**
-   - Checked and handled missing values and duplicates
-   - Removed irrelevant columns
+- **Data Import and Exploration**
+  - Loaded the dataset and viewed shape, columns, and basic statistics.
+  - Checked for duplicates and missing values.
 
-2. **Univariate Analysis**
-   - Bar chart of top 10 countries by population
-   - Line plot showing global population growth over years
+- **Data Cleaning**
+  - Removed any unnecessary columns and confirmed dataset quality.
 
-3. **Multivariate Analysis**
-   - Area plots to show year-wise growth per country
-   - Color-coded charts for region-wise comparison
-
-4. **Insights**
-   - Identified population growth trends
-   - Visual comparison between countries and continents
+- **Visualization & Analysis**
+  - Bar chart showing top 10 most populous countries.
+  - Area plots showing population growth trends (2001–2022).
+  - Gender-wise population trends using line plots and color comparisons.
+  - Observations on total, male, and female population growth across countries.
 
 ---
 
-## Conclusion:
-The EDA helped in understanding how population growth varies across different countries and regions over time. The visualizations provided a clear summary of population patterns and highlighted the leading countries in terms of growth.
+### Insights
+
+- Clear rise in total global population over time.
+- Gender distribution remains nearly equal in most countries.
+- Some countries show more significant growth than others due to population policies, urbanization, etc.
+
+---
+
+### Conclusion
+
+This EDA provided meaningful insights into global population growth and gender distribution trends.  
+The visualizations effectively summarized how demographic variables have changed over the years.
+
+---
+
+### Dataset Source
+
+This dataset was sourced from Kaggle:  
+🔗 [World Population Dataset on Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
