@@ -1,11 +1,11 @@
-### Task 1: Exploratory Data Analysis – World Population
+# Task 1: Exploratory Data Analysis – World Population
 
 This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).  
 In this task, I performed Exploratory Data Analysis (EDA) on a world population dataset to analyze demographic trends using visualizations.
 
 ---
 
-### Dataset
+# Dataset
 
 - **File Name:** `Task 1_worldpopulationdata.csv`  
 - **Source:** Contains country-wise population statistics from 2001 to 2022.  
@@ -18,7 +18,7 @@ In this task, I performed Exploratory Data Analysis (EDA) on a world population 
 
 ---
 
-### Tools and Libraries Used
+# Tools and Libraries Used
 
 - Python  
 - Jupyter Notebook  
@@ -29,7 +29,7 @@ In this task, I performed Exploratory Data Analysis (EDA) on a world population 
 
 ---
 
-### Key Steps Performed
+# Key Steps Performed
 
 - **Data Import and Exploration**
   - Loaded the dataset and viewed shape, columns, and basic statistics.
@@ -46,7 +46,7 @@ In this task, I performed Exploratory Data Analysis (EDA) on a world population 
 
 ---
 
-### Insights
+# Insights
 
 - Clear rise in total global population over time.
 - Gender distribution remains nearly equal in most countries.
@@ -54,14 +54,16 @@ In this task, I performed Exploratory Data Analysis (EDA) on a world population 
 
 ---
 
-### Conclusion
+# Conclusion
 
 This EDA provided meaningful insights into global population growth and gender distribution trends.  
 The visualizations effectively summarized how demographic variables have changed over the years.
 
 ---
 
-### Dataset Source
+# Dataset Source
 
 This dataset was sourced from Kaggle:  
 🔗 [World Population Dataset on Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
+
+---
