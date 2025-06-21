@@ -64,6 +64,6 @@ It helped in identifying the most talked-about topics and the type of sentiment 
 
 # Dataset Source
 
-🔗 **Internship-provided CSV:** `Task_4_twitter_training.csv`
+🔗 [Kaggle – Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ---
