@@ -1,11 +1,11 @@
-### Task 3: Bank Marketing ML Model (Additional Task)
+# Task 3: Bank Marketing ML Model (Additional Task)
 
 This task is part of my Data Science Internship at Prodigy InfoTech (June 2025).  
 In this task, I built a machine learning model using a bank marketing dataset to predict whether a client will subscribe to a term deposit.
 
 ---
 
-### Dataset
+# Dataset
 
 - **File Name:** `Task_3_bank-additional.xlsx`
 - **Source:** Bank Marketing dataset from a Portuguese banking institution.
@@ -20,7 +20,7 @@ In this task, I built a machine learning model using a bank marketing dataset to
 
 ---
 
-### Tools and Libraries Used
+# Tools and Libraries Used
 
 - Python  
 - Jupyter Notebook  
@@ -32,23 +32,23 @@ In this task, I built a machine learning model using a bank marketing dataset to
 
 ---
 
-### Key Steps Performed
+# Key Steps Performed
 
-#### Data Preprocessing
+## Data Preprocessing
 - Handled missing values and converted categorical features using Label Encoding  
 - Removed irrelevant or redundant features  
 
-#### Model Building
+## Model Building
 - Built Decision Tree Classifier using both Gini Index and Entropy  
 - Evaluated model performance using accuracy and classification reports  
 
-#### Visualization
+## Visualization
 - Bar plots for class distribution  
 - Confusion matrix heatmaps to visualize predictions  
 
 ---
 
-### Insights
+# Insights
 
 - The model using Gini Index performed slightly better in accuracy and recall  
 - Most clients do not subscribe to a term deposit (imbalanced dataset)  
@@ -56,7 +56,7 @@ In this task, I built a machine learning model using a bank marketing dataset to
 
 ---
 
-### Conclusion
+# Conclusion
 
 This task demonstrated how machine learning can help banks target the right customers for marketing campaigns. Decision tree models provided interpretable results and highlighted key features influencing customer decisions.
 
@@ -65,3 +65,5 @@ This task demonstrated how machine learning can help banks target the right cust
 ### Dataset Source
 
 🔗 [UCI Repository – Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+
+---
