@@ -16,10 +16,6 @@ In this task, I performed Exploratory Data Analysis (EDA) on the Titanic dataset
 - `Name` – Name of the passenger  
 - `Sex` – Gender of the passenger  
 - `Age` – Age in years  
-- `Fare` – Ticket fare  
-- `Embarked` – Port of embarkation  
-- `SibSp`, `Parch` – Family members aboard  
-- `Cabin`, `Ticket` – Cabin number and ticket info
 
 ---
 
