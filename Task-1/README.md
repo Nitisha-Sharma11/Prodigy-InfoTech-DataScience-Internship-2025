@@ -7,7 +7,7 @@ In this task, I performed Exploratory Data Analysis (EDA) on a world population 
 
 # Dataset
 
-- **File Name:** `Task 1_worldpopulationdata.csv`  
+- **File Name:** `Task_1_worldpopulationdata.csv`  
 - **Source:** Contains country-wise population statistics from 2001 to 2022.  
 - **Attributes Include:**
   - `SP.POP.TOTL` – Total Population  
