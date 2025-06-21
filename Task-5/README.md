@@ -7,8 +7,14 @@ In this task, I built a Machine Learning model using a U.S. accidents dataset to
 
 # Dataset
 
-The dataset used is from [Kaggle - U.S. Accidents (March 2023)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents).  
-It contains detailed records of traffic accidents, including date/time, location, weather, road conditions, and severity.
+- **File Name**: US_Accidents_March2023.csv  
+- **Source**: [Kaggle - U.S. Accidents (March 2023)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)  
+- **Attributes Include**:
+  - ID – Unique accident ID  
+  - Severity – Accident severity level (1–4)  
+  - Start_Time, End_Time – Duration of accident  
+  - City, State, County – Location details  
+  - Temperature(F), Weather_Condition – Environmental context  
 
 ---
 
